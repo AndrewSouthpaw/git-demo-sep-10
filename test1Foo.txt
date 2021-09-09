@@ -2,4 +2,8 @@ Add a thing.
 
 Here's some more text.
 
+add some more text here.
+
 Yaaaaay.
+
+Add some stuff at the end of the file.
