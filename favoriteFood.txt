@@ -1,1 +1,3 @@
 My favorite food is chocolate.
+
+My favorite cuisine is Thai food.
